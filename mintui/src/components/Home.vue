@@ -82,8 +82,8 @@ export default {
       this.lastSearch = " ";
     },
     query(str, from, to) {
-      let appid = "20191116000357528";
-      let key = "sMyfI2MaakUH_tUJtBnJ";
+      let appid = "";
+      let key = "";
       let salt = new Date().getTime();
       let url;
       // 多个query可以用\n连接  如 query='apple\norange\nbanana\npear'
