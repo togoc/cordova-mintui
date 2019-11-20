@@ -1,5 +1,8 @@
 # cordova-mintui
-![](images/ui.png)
+
+<div align="left">
+<img width="230" src="./images/ui.png" alt="首页">
+</div>
 
  * 使用百度翻译api, from 和 to 都是 `auto` 自动翻译成中文
  * 手机上能正常使用.
